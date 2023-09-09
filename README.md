@@ -2,7 +2,15 @@
 
 Scraper
 
-Clone the repository:
+## Installation
+
+Install with `npm`:
 ```
-git clone https://github.com/eremt/TODO
+npm i -S https://github.com/eremt/scraper
+```
+
+## Documentation
+
+```
+// TODO
 ```
